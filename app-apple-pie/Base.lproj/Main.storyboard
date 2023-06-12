@@ -343,6 +343,9 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="0Xg-wx-7iq" secondAttribute="trailing" id="lJD-pj-EdW"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="treeImageView" destination="mtB-Bf-GcJ" id="VyC-bj-vuw"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
